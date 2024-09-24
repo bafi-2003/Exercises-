@@ -1,1 +1,1 @@
-# Exercises- git rm file.txt
+# Exercises
